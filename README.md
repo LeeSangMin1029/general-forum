@@ -1,17 +1,17 @@
 general-forum(자유게시판)
 ==================
----- Frontend ----
+Frontend
 ==================
 - HTML
 - CSS
 - JavaScript
 
----- Backend ----
+Backend
 ==================
 - JavaScript
 - jQuery
 - NodeJs
 
----- Database ----
+Database
 ==================
 - MySql
