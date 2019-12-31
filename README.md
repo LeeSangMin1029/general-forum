@@ -2,7 +2,8 @@ general-forum(자유게시판)
 ==================
 이 문서는 게시판을 만들기 위한 필요 기능과 제작 과정이 작성되고 있습니다.<br>
 보기에 불편한 점이 있다면 sangmins39@gmail.com으로 개선사항을 보내주시면 수정하겠습니다.<br>
-
+<details>
+<summary>필요 언어</summary>
 
 Frontend
 ==================
@@ -19,6 +20,8 @@ Backend
 Database
 ==================
 - MySql
+</div>
+</details>
 
 <details>
 <summary>day 1</summary>
