@@ -48,7 +48,7 @@ response.writeHead(200, {
 <br>
 <br>
 
-개념
+개념정리
 ==================
 **request** : 클라이언트로부터 받는 데이터<br>
 **response** : 클라이언트에게 전달할 데이터<br>
