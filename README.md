@@ -1,7 +1,7 @@
 general-forum(자유게시판)
 ==================
 이 문서는 게시판을 만들기 위한 필요 기능과 제작 과정이 작성되고 있습니다.<br>
-보기에 불편한 점이 있다면 sangmins39@gmail.com으로 보내주세요.<br>
+보기에 불편한 점이 있다면 sangmins39@gmail.com으로 개선사항을 보내주시면 수정하겠습니다.<br>
 
 
 Frontend
@@ -35,7 +35,13 @@ response.writeHead(200, {
 });
 ```
 ------------------
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 개념
 ==================
@@ -58,4 +64,4 @@ response.writeHead(200, {
 - [생활코딩-cookie](https://www.youtube.com/watch?v=i51xW3eh-T4&list=PLuHgQVnccGMDo8561VLWTZox8Zs3K7K_m&index=1)
 
 ### cookie 정보
-- [cookie](https://soul0.tistory.com/106)
+- [cookie와 session](https://soul0.tistory.com/106)
