@@ -20,7 +20,9 @@ Database
 ==================
 - MySql
 
-## day 1
+<details>
+<summary>day 1</summary>
+<div markdown="1">
 web을 공부하는 중에 request, response에 대한 개념이 헷갈려서 간단하게 정리를 합니다.<br>
 **request** : 클라이언트로부터 받는 데이터<br>
 **response** : 클라이언트에게 전달할 데이터<br>
@@ -35,9 +37,9 @@ response.writeHead(200, {
 });
 ```
 ------------------
-<br>
-<br>
-<br>
+</div>
+</details>
+
 <br>
 <br>
 <br>
