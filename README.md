@@ -49,7 +49,8 @@ response.writeHead(200, {
 <div markdown="1">
 
 ## 20/01/02
-
+REST를 따르면 WWW, HTML보다 아주 커다란 소프트웨어 시스템 설계가 가능하다.<br>
+분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식이다.<br>
 
 </div>
 </details>
@@ -70,9 +71,9 @@ response.writeHead(200, {
 &nbsp;&nbsp;&nbsp;&nbsp;  HTTP에서 클라이언트의 상태 정보를 클라이언트의 사드 디스크에 저장했다가 필요시 정보를 참조하거 재사용 가능<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  WEB 상에서 사용자 식별, 사용자 정보 유지에 도움<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  세션 유지에 사용<br>
+REST(Representational State Transfer) : 네트워크 아키텍처 원리의 모음
 
-
-참고
+참조
 ==================
 ### markdown
 - [MD 사용법](https://heropy.blog/2017/09/30/markdown/)
