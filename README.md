@@ -65,11 +65,12 @@ response.writeHead(200, {
 **request** : 클라이언트로부터 받는 데이터<br>
 **response** : 클라이언트에게 전달할 데이터<br>
 **cookie** :<br>
-&nbsp;&nbsp;&nbsp;&nbsp;서버측에서 클라이언트 측에 상태 정보를 저장하고 추출할 수 있는 메커니즘<br>
-&nbsp;&nbsp;&nbsp;&nbsp;클라이언트의 매 요청마다 웹 브라우저로부터 서버에게 전송되는 정보패킷의 일종<br>
-&nbsp;&nbsp;&nbsp;&nbsp;HTTP에서 클라이언트의 상태 정보를 클라이언트의 사드 디스크에 저장했다가 필요시 정보를 참조하거 재사용 가능<br>
-&nbsp;&nbsp;&nbsp;&nbsp;WEB 상에서 사용자 식별, 사용자 정보 유지에 도움<br>
-&nbsp;&nbsp;&nbsp;&nbsp;세션 유지에 사용<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  서버측에서 클라이언트 측에 상태 정보를 저장하고 추출할 수 있는 메커니즘<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  클라이언트의 매 요청마다 웹 브라우저로부터 서버에게 전송되는 정보패킷의 일종<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  HTTP에서 클라이언트의 상태 정보를 클라이언트의 사드 디스크에 저장했다가 필요시 정보를 참조하거 재사용 가능<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  WEB 상에서 사용자 식별, 사용자 정보 유지에 도움<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  세션 유지에 사용<br>
+
 
 참고
 ==================
